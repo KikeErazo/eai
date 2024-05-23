@@ -1,0 +1,66 @@
+/* estilos.css */
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.titulo-principal, .titulo-secundario {
+  text-align: center;
+  margin: 15px 0;
+}
+.bloques {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.bloque {
+  width: 33%;
+  transition: background-color 1.5s ease;
+  background-color: #641a3915; 
+}
+
+.bloque:hover {
+  background-color: #641a3915; /* Cambia a este color cuando el ratón pasa por encima */
+}
+
+.bloque-interes :hover {
+  background-color: #ddb7dd; /* Un color claro, por ejemplo, caqui */
+
+}
+
+.bloque-cobro :hover {
+  background-color: #ddb7dd; /* Un color claro, por ejemplo, azul claro */
+}
+
+.bloque-videos :hover {
+  background-color: #ddb7dd; /* Un color claro, por ejemplo, verde pálido */
+}
+
+.pie-pagina {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.8em;
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 768px) {
+  .bloques {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bloque {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 480px) {
+  .bloque {
+    width: 100%;
+  }
+}

@@ -1,0 +1,27 @@
+Quiero hacer una página web y necesito el Código completo en HTML, CSS y java script, para que tenga un título en el centro que diga: DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADÍSTICA - DANE. Abajo y centrado un título:  ENCUESTA AMBIENTAL INDUSTRIAL EAI 2023. Abajo en tres bloques debe ir: Primer bloque, a la izquierda el título: ENLACES DE INTERÉS. Debajo de este título debe ir: 
+1. Renotificaciones.
+2. Revisión Solicitud de renotificación.
+3. Solicitud de Formularios y Constancia de diligenciamiento.
+4. Revisión Solicitud de Formularios y Constancia de diligenciamiento.
+5. Cambio datos años anteriores.
+6. HOME SharePoint.
+7. RUC.
+8. Mallas de Validación.
+9. Aplicativo EAI.
+10. Información Actualizada EAI 2023.
+11. RUES.
+12. SECOP II.
+
+Al lado el segundo bloque, en el centro el título: ENLACES CUENTA DE COBRO. Debajo de este título debe ir: 
+1. Documentos para el primer pago.
+2. Documentos para el segundo pago.
+2. GUÍA PARA CARGUE DE CUENTAS EN SECOP CONTRATISTAS.
+3. LÍNEAS DE PAGO SECOP II Y CIRCULAR N° 10
+
+al lado el tercer bloque, a la derecha el título: ENLACES A LOS VIDEOS. Y debajo de ste título:
+1. CREACIÓN DE LÍNEAS DE PAGO EN SECOP II Y CIRCULAR 10 - 26/04/2024 - 2PM
+2. DILIGENCIAMIENTO FORMATO INFORME  ACTIVIDADES/CUENTA DE COBRO - 02/05/2024
+3. Seguimiento semanal EAI - Sede - CALI - 03/05/2024
+4. Seguimiento semanal EAI - Sede - CALI - 07/05/2024
+5. Seguimiento semanal EAI - Sede - CALI - 14/05/2024
+6. Seguimiento semanal EAI - Sede - CALI - 21/05/2024
